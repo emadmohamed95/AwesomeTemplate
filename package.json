@@ -1,0 +1,8 @@
+{
+    "name": "AwesomeTemplate",
+    "version": "0.0.1",
+    "description": "React Native Awesome Template",
+    "repository": "git@github.com:emadmohamed95/AwesomeTemplate.git",
+    "author": "Emad ElSheshtawy <emadmohamed95@gmail.com>",
+    "license": "MIT"
+  }
